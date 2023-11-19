@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u1ScikUX+lj8d146oarlpwfSdD/DKql+jg44CECE+SJOSEJY7G//JYJjV2/8T7lPbzQ7oU+4T3SMhq47KnxE0g==",
+  "success": true,
+  "projectFilePath": "/media/HDD/Tareas Séptimo Semestre/Desarrollo de Sistemas Web/AnaliticaFei/AnaliticaFei.csproj",
+  "expectedPackageFiles": [
+    "/home/ctr305/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.13/microsoft.aspnetcore.app.ref.7.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
